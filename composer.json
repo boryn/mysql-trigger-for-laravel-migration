@@ -1,5 +1,5 @@
 {
-    "name": "sweetmancc/mysql-trigger-for-laravel-migration",
+    "name": "boryn/mysql-trigger-for-laravel-migration",
     "description": "A package to add database trigger to laravel migrations",
     "keywords": [
         "sweetmancc",
